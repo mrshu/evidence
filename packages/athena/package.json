@@ -1,0 +1,12 @@
+{
+  "name": "@evidence-dev/athena",
+  "version": "0.0.1",
+  "description": "Athena driver for Evidence projects",
+  "main": "index.cjs",
+  "author": "meahu",
+  "license": "MIT",
+  "dependencies": {
+    "athena-express": "^7.1.0"
+  },
+  "type": "module"
+}
